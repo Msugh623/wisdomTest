@@ -86,5 +86,5 @@ yes.style.display="none"
 }
 
 yes.onclick = function () {
-    h1.textContent = "Yes i knew it!";
+    h1.textContent = "Yes i knew you were not wise!";
 }
