@@ -13,7 +13,7 @@ no.addEventListener("mouseover", function () {
     let nO = document.getElementsByClassName("Yes");
 
     if (parannoy > 8) {
-        Yes.innerHTML += "<input type='button' class='Yes' value='Not stupid'>"
+        Yes.innerHTML += "<input type='button' class='Yes' value='Yes of course'>"
 
         for (let i = 0; i < nO.length; i++) {
             nO[i].addEventListener("click", function () {
